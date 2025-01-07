@@ -29,7 +29,7 @@
                 Console.WriteLine("The value of the array element: " + count);
             }
 
-            Console.Write($"{"\n"}Вывод элементов массива циклом do while {"\n"}");
+            Console.Write($"{"\n"}An outputting elements with the help of  while {"\n"}");
             int countCheck = 0;
             do
             {
